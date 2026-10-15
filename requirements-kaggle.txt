@@ -1,0 +1,6 @@
+# Install directly in the Kaggle runtime. Use .venv only on local machines.
+-r requirements-colab.txt
+pytest
+datasets
+safetensors
+wrapt
