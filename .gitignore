@@ -12,3 +12,11 @@ adapter*/
 .ipynb_checkpoints/
 .pytest_cache/
 .DS_Store
+
+# Local environments, exports and credentials
+kaggle.json
+.env.*
+*.zip
+kaggle-output/
+kaggle/kernel-metadata.json
+kaggle/lab_day10.ipynb
