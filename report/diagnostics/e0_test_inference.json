@@ -1,0 +1,7 @@
+{
+  "images": 311,
+  "truncated_at_limit": 13,
+  "max_new_tokens": 512,
+  "minutes": 21.13129008925,
+  "prediction_sha256": "8f4b7561de56c55cdc73eae6073dd346825f5b94aa10ce471ed7c7f2b08025ef"
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "path": "report/figures/prediction_1.png",
+    "image_id": "vlcsnap-00202",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0
+  },
+  {
+    "path": "report/figures/prediction_2.png",
+    "image_id": "vlcsnap-00204",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0
+  },
+  {
+    "path": "report/figures/prediction_3.png",
+    "image_id": "vlcsnap-00205",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0
+  },
+  {
+    "path": "report/figures/prediction_4.png",
+    "image_id": "vlcsnap-2025-02-18-23h30m29s192",
+    "tp": 1,
+    "fp": 7,
+    "fn": 4
+  },
+  {
+    "path": "report/figures/prediction_5.png",
+    "image_id": "vlcsnap-2025-02-18-23h30m29s649",
+    "tp": 0,
+    "fp": 7,
+    "fn": 3
+  },
+  {
+    "path": "report/figures/prediction_6.png",
+    "image_id": "vlcsnap-2025-02-19-17h08m59s876",
+    "tp": 0,
+    "fp": 5,
+    "fn": 5
+  }
+]

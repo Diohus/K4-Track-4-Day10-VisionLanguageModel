@@ -1,0 +1,32 @@
+{
+  "dataset_version": "d10-21e4070301",
+  "splits": {
+    "train": {
+      "images": 1422,
+      "sessions": 13,
+      "boxes": {
+        "pothole": 1074,
+        "crack": 1750,
+        "manhole": 691
+      }
+    },
+    "val": {
+      "images": 276,
+      "sessions": 2,
+      "boxes": {
+        "pothole": 66,
+        "crack": 470,
+        "manhole": 103
+      }
+    },
+    "test": {
+      "images": 311,
+      "sessions": 3,
+      "boxes": {
+        "pothole": 121,
+        "crack": 299,
+        "manhole": 163
+      }
+    }
+  }
+}

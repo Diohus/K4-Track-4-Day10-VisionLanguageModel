@@ -1,0 +1,27 @@
+{
+  "count": 1,
+  "annotations": [
+    {
+      "split": "train",
+      "image_id": "vlcsnap-00058",
+      "object_index": 1,
+      "label": "crack",
+      "original_yolo": [
+        0.639062,
+        0.786111,
+        0.003125,
+        0.0
+      ],
+      "serialized_target": {
+        "label": "crack",
+        "bbox_2d": [
+          637,
+          786,
+          641,
+          787
+        ]
+      }
+    }
+  ],
+  "policy": "Keep original splits and scorer GT unchanged; expand serialized target to at least 1/1000 per axis."
+}

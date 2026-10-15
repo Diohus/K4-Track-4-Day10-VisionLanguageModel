@@ -1,0 +1,9 @@
+{
+  "best": "e3",
+  "criterion": "validation micro F1, ties prefer simpler setup",
+  "validation_f1": {
+    "e1": 0.20153714773697695,
+    "e2": 0.2867579908675799,
+    "e3": 0.3962900505902192
+  }
+}
