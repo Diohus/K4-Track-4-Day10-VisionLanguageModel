@@ -1,0 +1,2 @@
+# Preserve raw prediction bytes used by inference SHA256 diagnostics.
+report/predictions/*.jsonl text eol=lf

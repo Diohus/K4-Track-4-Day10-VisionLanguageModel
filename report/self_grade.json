@@ -1,0 +1,80 @@
+{
+  "A_confirmed": 40,
+  "A_max": 40,
+  "A_breakdown": {
+    "e0_e3": 12,
+    "meta_e1_e3": 6,
+    "e1_parse": 4,
+    "e1_gain": 6,
+    "e4": 6,
+    "consistent": 6
+  },
+  "B_C_D_bonus": "Require human review and actual run evidence; not awarded from source code alone.",
+  "official_checks": [
+    [
+      "PASS",
+      "evidence e0",
+      ""
+    ],
+    [
+      "PASS",
+      "evidence e1",
+      ""
+    ],
+    [
+      "PASS",
+      "evidence e2",
+      ""
+    ],
+    [
+      "PASS",
+      "evidence e3",
+      ""
+    ],
+    [
+      "PASS",
+      "evidence e4",
+      "2 file"
+    ],
+    [
+      "PASS",
+      "e1 meta",
+      ""
+    ],
+    [
+      "PASS",
+      "e2 meta",
+      ""
+    ],
+    [
+      "PASS",
+      "e3 meta",
+      ""
+    ],
+    [
+      "PASS",
+      "dataset_version nhất quán",
+      "['d10-21e4070301']"
+    ],
+    [
+      "PASS",
+      "khớp data/splits/meta.json",
+      ""
+    ],
+    [
+      "PASS",
+      "REPORT.md đã điền",
+      "còn chuỗi '<điền'"
+    ],
+    [
+      "PASS",
+      "git commits",
+      "5/5"
+    ],
+    [
+      "PASS",
+      "git forbidden files",
+      ""
+    ]
+  ]
+}
